@@ -1,6 +1,6 @@
 {
   "name": "super-kron",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "description": "super kron",
   "main": "test.js",
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "weekender": "^0.0.1",
     "chartjs": "^0.3.24",
     "core-js": "^3.8.3",
     "koa": "^2.15.0",
